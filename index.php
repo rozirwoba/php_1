@@ -92,7 +92,7 @@ $deskripsi = "Saya adalah seorang mahasiswa informatika di salah satu universita
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p>&copy; Tugas PHP Dasar 1 | <?= $nama ?.</a></p>
+					<p>&copy; Tugas PHP Dasar 1 | <?= $nama ?></a></p>
 				</div>
 			</div>
 		</div>
