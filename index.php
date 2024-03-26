@@ -13,7 +13,7 @@ $deskripsi = "Saya adalah seorang mahasiswa informatika di salah satu universita
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Portfolio | Rozir Wobari</title>
+	<title>Portfolio | <?= $nama ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
@@ -92,7 +92,7 @@ $deskripsi = "Saya adalah seorang mahasiswa informatika di salah satu universita
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p>&copy; Tugas PHP Dasar 1 | Rozir Wobari</a></p>
+					<p>&copy; Tugas PHP Dasar 1 | <?= $nama ?.</a></p>
 				</div>
 			</div>
 		</div>
